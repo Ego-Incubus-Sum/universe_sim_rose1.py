@@ -1,0 +1,1 @@
+All three files save their output images to /mnt/user-data/outputs/, so before running them on your own computer, change that folder path near the top (and at the bottom of bounce_check.py) to a folder that exists on your machine
