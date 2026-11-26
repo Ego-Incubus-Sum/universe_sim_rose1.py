@@ -1,1 +1,1 @@
-All three files save their output images to /mnt/user-data/outputs/, so before running them on your own computer, change that folder path near the top (and at the bottom of bounce_check.py) to a folder that exists on your machine
+Sequence before running any of the python scripts: Run python universe_sim.py first, then python universe_sim_rose.py. All three files save their output images to /mnt/user-data/outputs/, so before running them on your own computer, change that folder path near the top (and at the bottom of bounce_check.py) to a folder that exists on your machine
